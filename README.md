@@ -1,2 +1,2 @@
 # devana-listener
-Testing telnet ports for data.
+Retrieving hidden data from telnet ports.
