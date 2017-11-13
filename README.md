@@ -1,2 +1,2 @@
-# devana-listener
+# telnet-listener
 Retrieving hidden data from telnet ports.
