@@ -4,9 +4,7 @@ import os
 import time
 import concurrent.futures
 
-host = r'apply.devana.rs'
-target_port = 'CEFEC'
-common_server_port = 'IA'
+host = r'host.domain' #telnet service address to check all ports
     
 start_port = 0
 end_port = 65535
